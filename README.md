@@ -41,3 +41,22 @@ machine learning and deep learning. It offers a comprehensive set of functions t
 train, and evaluate neural network models. In this project, Tensorflow (Keras) is the 
 primary framework for developing the Convolutional Neural Network (CNN) model used 
 for lung cancer detection.
+
+Importing Dataset 
+
+The dataset consists of images categorizing normal lung tissues, lung adenocarcinomas, 
+and lung squamous cell carcinomas. The extraction process is facilitated using the zipfile 
+module, ensuring accessibility for subsequent stages of the project. The dataset which we 
+will use here has been taken from -https://www.kaggle.com/datasets/andrewmvd/lung-and
+colon-cancer-histopathological-images.  This dataset includes 5000 images for three 
+classes of lung conditions: 
+
+• Normal Class 
+
+• Lung Adenocarcinomas 
+
+• Lung Squamous Cell Carcinomas 
+
+These images for each class have been developed from 250 images by performing Data 
+Augmentation on them. That is why we won’t be using Data Augmentation further on these 
+images.
