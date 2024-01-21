@@ -1,2 +1,1 @@
-# Lung-Cancer-Detection
-Using CNN
+The goal of this project is to develop a Convolutional Neural Network (CNN) model for the detection of lung cancer using histopathological images. The objective is to classify lung tissues into three categories: normal, lung adenocarcinomas, and lung squamous cell carcinomas. By leveraging deep learning techniques, the aim is to automate the process of identifying cancerous cells within lung images, facilitating early detection and diagnosis. 
