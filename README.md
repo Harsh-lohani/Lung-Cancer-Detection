@@ -1,6 +1,7 @@
 The goal of this project is to develop a Convolutional Neural Network (CNN) model for the detection of lung cancer using histopathological images. The objective is to classify lung tissues into three categories: normal, lung adenocarcinomas, and lung squamous cell carcinomas. By leveraging deep learning techniques, the aim is to automate the process of identifying cancerous cells within lung images, facilitating early detection and diagnosis. 
 
-Modules Used 
+Modules Used
+
 2.0 Pandas
 Purpose: Pandas is a powerful data manipulation library that facilitates the handling of 
 structured data in a 2D array format known as a DataFrame. It provides numerous 
