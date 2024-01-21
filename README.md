@@ -62,5 +62,5 @@ Augmentation on them. That is why we won’t be using Data Augmentation further 
 images.
 
 
-Conclusion
+Conclusion: 
 The performance of our simple CNN model is very good as the f1-score for each class is above 0.90 which means our model’s prediction is correct 90% of the time.
